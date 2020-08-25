@@ -50,7 +50,7 @@ class App extends React.Component {
           </Navbar>
 
 
-
+          <img src="/images/minish_cap_link.png" alt="link"/>
         </Container>
       </Router>
       );
